@@ -1,0 +1,14 @@
+[user]
+	name = Siddharth Upadhyay
+	email = 178361631+u-s1ddhar7h@users.noreply.github.com
+	signingkey = 471AB39936658AD2
+[core]
+	autocrlf = input
+	safecrlf = warn
+	ui = true
+[init]
+	defaultBranch = main
+[commit]
+	gpgsign = true
+[tag]
+	gpgsign = true
