@@ -1,0 +1,12 @@
+{
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "expand",
+    "editor.fontFamily": "RecMonoCasual Nerd Font",
+    "editor.fontSize": 16,
+    "editor.fontLigatures": true,
+    "window.zoomLevel": 1,
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "bounded",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.colorTheme": "Catppuccin Mocha"
+}
