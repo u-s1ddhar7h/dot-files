@@ -1,6 +1,9 @@
+# Maximize New Window
+maximize = true
+
 # Theme
 theme = catppuccin-mocha
-font-family = CaskaydiaCove Nerd Font
+font-family = MonaspiceNe Nerd Font
 font-size = 14
 
 

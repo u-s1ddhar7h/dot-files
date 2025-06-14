@@ -1,7 +1,7 @@
 [user]
 	name = Siddharth Upadhyay
 	email = 178361631+u-s1ddhar7h@users.noreply.github.com
-	signingkey = ACA6E078EB10B963
+	signingkey = A947834173BBE8A9
 [core]
 	autocrlf = input
 	safecrlf = warn
